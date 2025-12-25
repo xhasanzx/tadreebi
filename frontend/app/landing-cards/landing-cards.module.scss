@@ -1,0 +1,8 @@
+.landingCardsContainer {
+  margin-top: 50px;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  justify-content: center;
+}
