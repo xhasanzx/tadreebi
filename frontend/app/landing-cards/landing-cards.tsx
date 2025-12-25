@@ -1,4 +1,4 @@
-import { CardComponent } from '../components/common/card';
+import { CardComponent } from '../components/common/card/card';
 import { LANDING_CARD_CONTENT } from '../types/landing-cards';
 import styles from './landing-cards.module.scss';
 const LandingCards = () => {
